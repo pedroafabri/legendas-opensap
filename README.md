@@ -1,10 +1,9 @@
-Arquivo para organização das legendas dos cursos OpenSAP.
+Arquivo para organização e tradução das legendas dos cursos OpenSAP.
 
 <h2>Objetivo:</h2>
 Nem todas as pessoas assistindo os cursos do OpenSAP são fluentes em inglês, certo?<br>
 Bom, para a sorte dessas pessoas a SAP disponibiliza todas as legendas transcritas e já com seu tempo certinho... em inglês ¬¬"<br>
-Então, fiz esse código pra transformar a legenda de PDF para um arquivo CSV!<br>
-Depois, basta você traduzir as legendas em um Google Tradutor da vida! :D
+Então, fiz esse código pra transformar a legenda de PDF para um arquivo CSV TRADUZIDO!<br>
 
 <h2>Como Usar:</h2>
 <ol>
@@ -16,5 +15,8 @@ Depois, basta você traduzir as legendas em um Google Tradutor da vida! :D
 	<li>Execute o arquivo "legendas.py" e aguarde a mágica acontecer.</li>
 	<li>Prontinho! Será criado um arquivo chamado "legendas.csv", prontinho para ser importado no excel!</li>
 </ol>
+
+Agora basta você usar o seu programa de legendas favorito!<br>
+(DICA: É facinho de legendar um video se você subir ele pro YouTube! :D)
 
 <h2>BONS ESTUDOS! :D</h2>
